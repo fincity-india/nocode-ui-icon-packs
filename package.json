@@ -1,0 +1,16 @@
+{
+  "name": "icon-packs",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel -p 4321",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "author": {
+    "name": "Kiran Grandhi",
+    "url": "https://www.linkedin.com/in/kirangrandhi/"
+  },
+  "license": "MIT"
+}
